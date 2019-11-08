@@ -33,6 +33,9 @@
 <v t="leo.20191107155702.1"><vh>Week8</vh>
 <v t="leo.20191107155702.2"><vh>投影片內容</vh></v>
 </v>
+<v t="leo.20191108162818.1"><vh>Week9</vh>
+<v t="leo.20191108162818.2"><vh>投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -409,5 +412,19 @@ vertical: body pane on the botton</t>
 * &lt;font size="7"&gt;任務二:以ssh對Github連線&lt;/font&gt;
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="7"&gt;任務三:導入Webots&lt;/font&gt;</t>
+<t tx="leo.20191108162818.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191108162818.2">## [Week9](https://s40723227.github.io/cad2019/content/Week6~Week9.html)
+
+#### 期中報告影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B76TzMgWv-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
