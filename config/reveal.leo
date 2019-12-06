@@ -36,6 +36,12 @@
 <v t="leo.20191108162818.1"><vh>Week9</vh>
 <v t="leo.20191108162818.2"><vh>投影片內容</vh></v>
 </v>
+<v t="leo.20191206132809.1"><vh>Week10</vh>
+<v t="leo.20191206132809.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20191206132811.1"><vh>Week12</vh>
+<v t="leo.20191206132811.2"><vh>投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -426,5 +432,39 @@ vertical: body pane on the botton</t>
 #### 期中報告影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B76TzMgWv-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191206132809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191206132809.2">## [Week10](https://s40723227.github.io/cad2019/content/Week10.html)
+
+* &lt;font size="7"&gt;組長創建倉儲,組員fork倉儲&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[繪圖軟體介紹](https://s40723227.github.io/cad2019/content/Week10.html) &lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[各套繪圖軟體之差異及特點分析](https://s40723212.github.io/cad2019bg1/content/%E5%90%84%E5%A5%97%E7%B9%AA%E5%9C%96%E8%BB%9F%E9%AB%94%E4%B9%8B%E5%B7%AE%E7%95%B0%E5%8F%8A%E7%89%B9%E9%BB%9E%E5%88%86%E6%9E%90.html) &lt;/font&gt;</t>
+<t tx="leo.20191206132811.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191206132811.2">## [Week12](https://s40723227.github.io/cad2019/content/Week12.html)
+
+* &lt;font size="7"&gt;[Batch Command設定](https://www.youtube.com/channel/UC5y7AhGgUZc4antBwgJIJ7w)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[NX12使用手冊重點整理 第三章 2D草圖](https://s40723227.github.io/cad2019/content/Week12.html) &lt;/font&gt;
+
+
+
+</t>
 </tnodes>
 </leo_file>
