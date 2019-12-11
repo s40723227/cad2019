@@ -42,6 +42,12 @@
 <v t="leo.20191206132811.1"><vh>Week12</vh>
 <v t="leo.20191206132811.2"><vh>投影片內容</vh></v>
 </v>
+<v t="leo.20191212001137.1"><vh>Week13</vh>
+<v t="leo.20191212001137.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20191212001635.1"><vh>Week13報告影片</vh>
+<v t="leo.20191212001635.2"><vh>報告影片</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -459,9 +465,44 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191206132811.2">## [Week12](https://s40723227.github.io/cad2019/content/Week12.html)
 
-* &lt;font size="7"&gt;[Batch Command設定](https://www.youtube.com/channel/UC5y7AhGgUZc4antBwgJIJ7w)&lt;/font&gt;
+* &lt;font size="7"&gt;[Batch Command設定](https://www.youtube.com/watch?v=1vOdn-taNo0&amp;t=1s)&lt;/font&gt;
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="7"&gt;[NX12使用手冊重點整理 第三章 2D草圖](https://s40723227.github.io/cad2019/content/Week12.html) &lt;/font&gt;
+
+
+
+</t>
+<t tx="leo.20191212001137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212001137.2">## [Week13](https://s40723227.github.io/cad2019/content/Week13.html)
+
+* &lt;font size="7"&gt;[Webots-1](https://www.youtube.com/watch?v=9_wb_nkoGU8)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[Vrep bubbleRob外型設定](https://youtu.be/gCgnIWXeeCw) &lt;/font&gt;
+
+
+
+</t>
+<t tx="leo.20191212001635.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191212001635.2">## [Week13](https://s40723227.github.io/cad2019/content/Week13.html)
+
+ &lt;font size="7"&gt;報告影片&lt;/font&gt;
+
 
 
 
