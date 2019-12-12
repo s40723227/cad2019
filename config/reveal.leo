@@ -483,7 +483,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191212001137.2">## [Week13](https://s40723227.github.io/cad2019/content/Week13.html)
 
-* &lt;font size="7"&gt;[Webots-1](https://www.youtube.com/watch?v=9_wb_nkoGU8)&lt;/font&gt;
+* &lt;font size="7"&gt;[Webots tutorial 1](https://www.youtube.com/watch?v=9_wb_nkoGU8)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[Webots tutorial 2](https://youtu.be/6cRF1jS2Fwo)&lt;/font&gt;
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="7"&gt;[Vrep bubbleRob外型設定](https://youtu.be/gCgnIWXeeCw) &lt;/font&gt;
 
