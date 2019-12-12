@@ -502,6 +502,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191212001635.2">## [Week13](https://s40723227.github.io/cad2019/content/Week13.html)
 
  &lt;font size="7"&gt;報告影片&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q_6HhBJ4k20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
