@@ -48,6 +48,9 @@
 <v t="leo.20191212001635.1"><vh>Week13報告影片</vh>
 <v t="leo.20191212001635.2"><vh>報告影片</vh></v>
 </v>
+<v t="leo.20191215162035.1"><vh>Week14</vh>
+<v t="leo.20191215162035.2"><vh>投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -507,6 +510,28 @@ vertical: body pane on the botton</t>
 &lt;hr color="#ff8000"&gt;
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q_6HhBJ4k20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
+
+
+
+</t>
+<t tx="leo.20191215162035.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191215162035.2">## [Week14](https://s40723227.github.io/cad2019/content/Week14.html)
+
+* &lt;font size="7"&gt;[Webots tutorial 3](https://youtu.be/_mEsiBU9LPM)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[Webots tutorial 4](https://youtu.be/GlJ_y--w00A)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[Webots tutorial 5](https://youtu.be/uM78CW-jbSg)&lt;/font&gt;
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="7"&gt;[Webots tutorial 6](https://youtu.be/Z6ASNLCNGLQ)&lt;/font&gt;
 
 
 
