@@ -54,6 +54,9 @@
 <v t="leo.20191220160150.1"><vh>Week15</vh>
 <v t="leo.20191220160150.2"><vh>投影片內容</vh></v>
 </v>
+<v t="leo.20191227161250.1"><vh>Week16</vh>
+<v t="leo.20191227161250.2"><vh>投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -551,6 +554,22 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191220160150.2">## Week15 個人學習成果影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N9OyG7pRzQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20191227161250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191227161250.2">## Week16 越野車零組件設計繪圖查驗影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g0nJGz4IKWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
